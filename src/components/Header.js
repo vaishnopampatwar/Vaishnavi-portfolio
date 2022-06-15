@@ -13,7 +13,7 @@ function Header() {
         </div>
         <div class="outline_text d-none d-lg-block">Portfolio</div>
         <div className="abt" data-aos="fade-up" data-aos-duration="2000">
-            <div><img className="myimg" src="img/me.jpeg"></img></div>
+            <div><img className="myimg" src="img/homeme.jpeg"></img></div>
             <div className="abt-in">
                 <h3>HELLO EVERYBODY, I AM</h3>
                 <h1>Vaishnavi<br/> Pampatwar</h1>
