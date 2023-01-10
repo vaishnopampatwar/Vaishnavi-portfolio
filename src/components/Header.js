@@ -22,7 +22,7 @@ function Header() {
                 {/* <h5>I'm a Programmer and Full stack <br/>Web Developer currently living in Nanded.<br/> I enjoy building everything from small <br/>to rich interactive web apps</h5> */}
                 {/*  */}
                 <div className="head-in">
-                    <p><PhoneIcon/>9175196607</p>
+//                     <p><PhoneIcon/>9175196607</p>
                     <p><EmailIcon/>vaishnavipampatwar77@gmail.com</p>
                     <p><HomeIcon/>India</p>
                 </div>
